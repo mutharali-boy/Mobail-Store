@@ -1,0 +1,15 @@
+{
+  "name": "Areej Communication",
+  "version": "1.0.0",
+  "description": "Online store with order management and admin panel for an electronics / mobile shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "dev": "node --no-warnings --watch server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
